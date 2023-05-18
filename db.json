@@ -5,5 +5,32 @@
       "id": 1,
       "name": "Instrumento 1"
     }
+  ],
+  "documental":
+  [
+    {
+      "id":250,
+      "name": "Archivo 1",
+      "url_file": "https://m.media-amazon.com/images/I/71+-9N+xeGL._SL1500_.jpg"
+    }
+  ],
+  "r_actions_documental":
+  [
+    {
+      "matrix_code": "FRP01",
+      "average": 4.1,
+      "weight": 3,
+      "marix_level": 2
+    }
+  ],
+  "r_actions_perception":
+  [
+    {
+      "matrix_code": "FRP01",
+      "objective_group": "Estudiantes",
+      "average": 4.1,
+      "weight": 3,
+      "marix_level": 2
+    }
   ]
 }
