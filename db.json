@@ -3,14 +3,14 @@
   [
     {
       "id": 1,
-      "name": "Instrumento 1"
+      "text": "Instrumento 1"
     }
   ],
   "documental":
   [
     {
       "id":250,
-      "name": "Archivo 1",
+      "text": "Archivo 1",
       "url_file": "https://m.media-amazon.com/images/I/71+-9N+xeGL._SL1500_.jpg",
       "document_type": "Plan",
     }
