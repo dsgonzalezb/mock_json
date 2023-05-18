@@ -1,0 +1,9 @@
+{
+  perception:
+  [
+    {
+      id: 1,
+      name: 'Instrumento 1'
+    }
+  ]
+}
