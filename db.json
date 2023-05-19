@@ -1,46 +1,43 @@
 {
-  "perception":
-  [
+  "perception": [
     {
       "id": 1,
       "text": "Instrumento 1"
     }
   ],
-  "documental":
-  [
+  "documental": [
     {
-      "id":250,
+      "id": 250,
       "text": "Archivo 1",
       "url_file": "https://m.media-amazon.com/images/I/71+-9N+xeGL._SL1500_.jpg",
       "document_type": "Plan"
     },
     {
-      "id":253,
+      "id": 253,
       "text": "Archivo 2",
       "url_file": "https://m.media-amazon.com/images/I/71+-9N+xeGL._SL1500_.jpg",
       "document_type": "Estadístico"
     },
     {
-      "id":254,
+      "id": 254,
       "text": "Archivo 3",
       "url_file": "https://m.media-amazon.com/images/I/71+-9N+xeGL._SL1500_.jpg",
       "document_type": "Indicadores"
     },
     {
-      "id":255,
+      "id": 255,
       "text": "Archivo 4",
       "url_file": "https://m.media-amazon.com/images/I/71+-9N+xeGL._SL1500_.jpg",
       "document_type": "Indicadores"
     },
     {
-      "id":256,
+      "id": 256,
       "text": "Archivo 5",
       "url_file": "https://m.media-amazon.com/images/I/71+-9N+xeGL._SL1500_.jpg",
       "document_type": "Acuerdo"
     }
   ],
-  "r_actions_documental":
-  [
+  "r_actions_documental": [
     {
       "matrix_code": "FRP01",
       "average": 4.1,
@@ -48,8 +45,7 @@
       "marix_level": 2
     }
   ],
-  "r_actions_perception":
-  [
+  "r_actions_perception": [
     {
       "matrix_code": "FRP01",
       "objective_group": "Estudiantes",
