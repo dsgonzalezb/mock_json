@@ -44,6 +44,13 @@
       "weight": 3,
       "matrix_level": 1,
       "document_type": "Indicadores"
+    },
+    {
+      "matrix_code": "FRP02",
+      "average": 3.5,
+      "weight": 3,
+      "matrix_level": 1,
+      "document_type": "Plan"
     }
   ],
   "r_actions_perception": [
@@ -51,6 +58,13 @@
       "matrix_code": "FRP01",
       "objective_group": "ESTUDIANTES",
       "average": 4.1,
+      "weight": 3,
+      "matrix_level": 1
+    },
+    {
+      "matrix_code": "FRP02",
+      "objective_group": "ESTUDIANTES",
+      "average": 1.5,
       "weight": 3,
       "matrix_level": 1
     }
