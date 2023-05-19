@@ -42,7 +42,7 @@
       "matrix_code": "FRP01",
       "average": 4.1,
       "weight": 3,
-      "matrix_level": 2,
+      "matrix_level": 1,
       "document_type": "Indicadores"
     }
   ],
@@ -52,7 +52,7 @@
       "objective_group": "ESTUDIANTES",
       "average": 4.1,
       "weight": 3,
-      "matrix_level": 2
+      "matrix_level": 1
     }
   ]
 }
